@@ -7,14 +7,15 @@ const Home = () => {
         <div className='card mt-2'>
             <div className='m-2 my-3 d-flex card-body'>
               <div>
-              <img src="./assets/myphoto.png" alt="" height={'250px'} width={'auto'} className='boreder rounded'/>
+              <img src="./assets/myphoto.png" alt="" height={'300px'} width={'auto'} className='boreder rounded'/>
               </div>
-              <div className='m-2'>
+              <div className='mx-3'>
               <h1>Prem Y</h1>
               <p>Student at Sahyadri College of Engineering & Management</p>
+              <p>2nd year, AIML Department</p>
               <p>Learning</p>
               <ul className='list-group-sm'>
-                <li className='list-group-items'>Designing and Analysis of Algorithms with Python</li>
+                <li className='list-group-items'>Design and Analysis of Algorithms with Python</li>
                 <li className='list-group-items'>Operating System</li>
                 <li className='list-group-items'>Embedded System concepts with ARM</li>
                 <li className='list-group-items'>MERN stack</li>
